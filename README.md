@@ -1,6 +1,4 @@
-![Screenshot1](https://i.imgur.com/Vy2GsVI.png)
-![Screenshot2](https://i.imgur.com/elu2pMI.png)
-![Screenshot3](https://i.imgur.com/rc0O1CP.png)
+<img src="https://i.imgur.com/Vy2GsVI.png" width="280px"> <img src="https://i.imgur.com/elu2pMI.png" width="280px"> <img src="https://i.imgur.com/rc0O1CP.png" width="280px"> 
 
 # HuliPizza
 A basic pizza ordering app built in SwiftUI
